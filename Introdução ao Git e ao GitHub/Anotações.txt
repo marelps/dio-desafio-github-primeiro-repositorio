@@ -1,0 +1,31 @@
+Objetos fundamentais
+
+Blob: Contém metadados do git, como tipo do objeto, tamanho da string
+
+Tree: Armazenam blob e apontam para blobs diferentes
+
+Chave SSH é uma forma de estabelecer uma conexão segura e encriptada entre dois computadores
+
+Pastas que começam com . são pastas ocultasChave SSH é uma forma de estabelecer uma conexão segura e encriptada entre dois computadores
+
+Pastas que começam com . são pastas ocultas
+
+Primeiros comandos do GIT
+
+- Iniciar o GIT
+- Iniciar o versionamento
+- Criar um commit
+
+**Comandos**
+
+- `git init`
+- `git add`
+- `git commit`
+
+ `-a` → mostra arquivos ocultos
+
+`ls -a`
+
+`cd ..` → volta um nível
+
+ctrl + L → limpa os códigos
